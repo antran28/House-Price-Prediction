@@ -1,6 +1,4 @@
 # 🏡 Advanced House Price Prediction 🏡
-![melbourne-houses-shutterstock-1058323847-100905025-large-20220803090254](https://user-images.githubusercontent.com/102011433/188757907-0d2e6c2e-5057-41cb-999c-3b7a8ca6c62f.jpg)
-
 
 ## ✨ Introduction
 
@@ -8,8 +6,14 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each house.
 I have done detailed exploratory data analysis of House Prices dataset along with advance logistic regression model to predict house price in the future.
-- Our goal is to predict the accrate SalePrice with given features.
-- Our models are evaluated on the Root-Mean-Squared-Error (RMSE).
+- The goal of this analysis is to predict the accrate SalePrice with given features.
+- Predictive models are evaluated on the Root-Mean-Squared-Error (RMSE).
+
+
+![melbourne-houses-shutterstock-1058323847-100905025-large-20220803090254](https://user-images.githubusercontent.com/102011433/188757907-0d2e6c2e-5057-41cb-999c-3b7a8ca6c62f.jpg)
+
+
+
 
 ## ✨ Dataset description
 Dataset Description
