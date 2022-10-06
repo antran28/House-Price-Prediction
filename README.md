@@ -17,7 +17,7 @@ I have done detailed exploratory data analysis of House Prices dataset along wit
 
 ## ✨ Dataset description
 Dataset Description
-In this dataset, there are 1460 observations with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Among explanatory variables, there are 37 integer variables, such as Id, MSSubClass, LotFrontage, and 43 factor variables, such as MSZoning, Street, LotShape. Descriptive analysis and quantitative analysis will use subsets of it depending on models.
+In this dataset, there are 14600 observations with 79 explanatory variables describing (almost) every aspect of residential homes in Boston. Among explanatory variables, there are 37 integer variables, such as Id, MSSubClass, LotFrontage, and 43 factor variables, such as MSZoning, Street, LotShape. Descriptive analysis and quantitative analysis will use subsets of it depending on models.
 
 ## ✨ Notebook overview
 This is my submission to the Housing Prices Competition for Kaggle Learn Users. I have used Linear Regression Model for prediction. As I'm writing this , I am ranked among the top 5% of all Kagglers.
