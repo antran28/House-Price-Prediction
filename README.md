@@ -24,4 +24,6 @@ This is my submission to the Housing Prices Competition for Kaggle Learn Users. 
 - First part of this report will focus on Descriptive and Exploratory Analysis
 - Second part of this report include Predictive Analysis using Linear Regression Model
 
+### 🌻 P/s: Hope this repository will help you to assess my coding skills or will be just fun for you to play with 😊
+
  
